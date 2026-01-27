@@ -20,7 +20,7 @@ Os dados utilizados neste projeto foram obtidos a partir da base pública da Pol
 
 ### Distribuição do estado físico das vítimas
 
-Este gráfico apresenta a distribuição proporcional do estado físico das vítimas envolvidas em acidentes nas rodovias federais brasileiras em 2025. Observa-se predominância de vítimas ilesas, seguida por vítimas com lesões leves. As categorias de lesões graves e óbitos representam parcelas menores do total, enquanto a presença da categoria “Não Informado” evidencia limitações no preenchimento de alguns registros da base de dados.
+Este gráfico apresenta a distribuição proporcional do estado físico das vítimas envolvidas em acidentes nas rodovias federais brasileiras em 2024. Observa-se predominância de vítimas ilesas, seguida por vítimas com lesões leves. As categorias de lesões graves e óbitos representam parcelas menores do total, enquanto a presença da categoria “Não Informado” evidencia limitações no preenchimento de alguns registros da base de dados.
 
 ### Proporção do estado físico das vítimas por dia da semana
 Este gráfico de barras empilhadas em proporção (100%) compara a distribuição do estado físico das vítimas ao longo dos dias da semana, independentemente do volume total de acidentes em cada dia. A visualização permite identificar variações na gravidade relativa dos acidentes, destacando maior participação de lesões graves e óbitos nos finais de semana, o que sugere aumento da severidade dos acidentes nesses períodos.
