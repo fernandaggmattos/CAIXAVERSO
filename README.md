@@ -8,7 +8,7 @@ Projeto desenvolvido no módulo **Estatística** do programa **CAIXAVERSO - Anal
 Explorar padrões e relações entre características dos acidentes, perfil das vítimas e gravidade dos desfechos, utilizando técnicas de estatística descritiva e visualização de dados.
 
 ## Fonte dos Dados
-Os dados utilizados neste projeto foram obtidos a partir da base pública da Polícia Rodoviária Federal (PRF), referente aos acidentes ocorridos em 2025, agregados por pessoa. Podem ser obtidos acessando o drive https://drive.google.com/file/d/1-PJGRbfSe7PVjU37A3wTCls_NRXyVGRD/view
+Os dados utilizados neste projeto foram obtidos a partir da base pública da Polícia Rodoviária Federal (PRF), referente aos acidentes ocorridos em 2024, agregados por pessoa. Podem ser obtidos acessando o drive https://drive.google.com/file/d/1-PJGRbfSe7PVjU37A3wTCls_NRXyVGRD/view
 
 ## Metodologia
 - Limpeza e padronização dos dados
