@@ -1,6 +1,6 @@
 # CAIXAVERSO
 
-# Análise Exploratória de Acidentes nas Rodovias Federais – 2025
+# Análise Exploratória de Acidentes nas Rodovias Federais – 2024
 
 Projeto desenvolvido no módulo **Estatística** do programa **CAIXAVERSO - Analista de Dados nível II**, com o objetivo de realizar uma análise exploratória de dados utilizando registros de acidentes de trânsito no Brasil.
 
